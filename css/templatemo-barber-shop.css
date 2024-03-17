@@ -813,8 +813,7 @@ strong {
 
 @media screen and (max-width: 480px) {
   h1 {
-    font-size: 38px;
-  }
+    font-size:22px;
 
   h2 {
     font-size: 28px;
